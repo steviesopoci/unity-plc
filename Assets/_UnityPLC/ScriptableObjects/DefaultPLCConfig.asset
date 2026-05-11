@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15c23f326f0584e838e0cc4f31f1dd49, type: 3}
+  m_Name: DefaultPLCConfig
+  m_EditorClassIdentifier: Assembly-CSharp::UnityPLC.Plc.Config.PLCConnectionConfig
+  ip: 127.0.0.1
+  port: 1502
+  pollRate: 0.5
